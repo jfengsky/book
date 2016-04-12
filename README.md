@@ -63,16 +63,16 @@
 <h2>Frame</h2>
 <ul>
   <li>
-    <h4><a href="https://github.com/sunmengyuan/book/blob/master/Bootstra%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.pdf">Bootstra 用户手册</a></h4>
-  </li>
-  <li>
     <h4><a href="http://www.gulpjs.com.cn/">Gulp.js 中文网</a></h4>
   </li>
   <li>
     <h4><a href="http://www.requirejs.cn/">RequireJS 中文网</a></h4>
-  <li>
+  </li>
   <li>
     <h4><a href="http://www.swiper.com.cn/">Swiper 中文网</a></h4>
+  </li>
+  <li>
+    <h4><a href="https://github.com/sunmengyuan/book/blob/master/Bootstra%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.pdf">Bootstra 用户手册</a></h4>
   </li>
 </ul>
 
@@ -96,10 +96,10 @@
 <h5>前端拓展</h5>
 <ul>
   <li>
-    <h4><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">Git 教程 (推荐)</a></h4>
+    <h4><a href="https://github.com/sunmengyuan/book/blob/master/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.pdf">学习正则表达式 (推荐)</a></h4>
   </li>
   <li>
-    <h4><a href="https://github.com/sunmengyuan/book/blob/master/%E5%AD%A6%E4%B9%A0%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.pdf">学习正则表达式 (推荐)</a></h4>
+    <h4><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">Git 教程 (推荐)</a></h4>
   </li>
   <li>
     <h4><a href="http://www.sketchcn.com/">Sketch 中文网</a></h4>
