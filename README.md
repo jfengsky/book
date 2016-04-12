@@ -92,6 +92,8 @@
 <ul>
   <li>
     <h4><a href="http://www.gulpjs.com.cn/">Gulp.js 中文网</a></h4>
+    <h5><a href="https://github.com/sunmengyuan/note/blob/master/gulp">【Gulp.js 笔记】</a></h5>
+    <h5><a href="https://github.com/sunmengyuan/common/blob/master/gulpfile.js">【Gulp.js 实例】</a></h5>
   </li>
   <li>
     <h4><a href="http://www.requirejs.cn/">Require.js 中文网</a></h4>
