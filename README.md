@@ -49,7 +49,6 @@
   <li>
     <h4><a href="https://github.com/sunmengyuan/book/blob/master/HTML5%20Canvas%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf">HTML5 Canvas 核心技术 (推荐)</a></h4>
     <h5><a href="https://github.com/sunmengyuan/note/blob/master/canvas/canvas.js">【Canvas 笔记】</a></h5>
-    <h6>Demos</h6>
     <ul>
       <li>
         <h5><a href="https://github.com/sunmengyuan/note/blob/master/canvas/bezierCurve.html">可交互贝塞尔曲线</a></h5>
@@ -65,7 +64,6 @@
   <li>
     <h4><a href="https://read.douban.com/reader/ebook/7412854/">Three.js 入门指南 (推荐)</a></h4>
     <h5><a href="https://github.com/sunmengyuan/note/blob/master/webgl/webgl.js">【Three.js 笔记】</a></h5>
-    <h6>Demos</h6>
     <ul>
       <li>
         <h5><a href="https://github.com/sunmengyuan/note/blob/master/webgl/clock.html">三维立体旋转钟</a></h5>
@@ -75,7 +73,6 @@
   <li>
     <h4><a href="http://www.w3cplus.com/blog/tags/411.html">SVG 系列教程</a></h4>
     <h5><a href="https://github.com/sunmengyuan/note/blob/master/svg/svg.html">【SVG 笔记】</a></h5>
-    <h6>Demos</h6>
     <ul>
       <li>
         <h5><a href="https://github.com/sunmengyuan/note/blob/master/svg/cat.html">路径动画</a></h5>
