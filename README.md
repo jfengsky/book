@@ -135,8 +135,3 @@
     <h4><a href="https://github.com/sunmengyuan/book/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMySQL.pdf">高性能 MySQL</a></h4>
   </li>
 </ul>
-
-<div style="padding-top: 50px">
-  <h6>呆恋小喵</h6>
-  <div>qq: 493108053</div>
-</div>
