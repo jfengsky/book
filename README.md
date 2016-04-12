@@ -136,8 +136,7 @@
   </li>
 </ul>
 
-<h6>
-  呆恋小喵
-  <br />
-  qq: 493108053
-</h6>
+<div style="padding-top: 50px">
+  <h6>呆恋小喵</h6>
+  <div>qq: 493108053</div>
+</div>
