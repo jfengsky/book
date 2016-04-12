@@ -66,10 +66,10 @@
     <h4><a href="http://www.gulpjs.com.cn/">Gulp.js 中文网</a></h4>
   </li>
   <li>
-    <h4><a href="http://www.requirejs.cn/">RequireJS 中文网</a></h4>
+    <h4><a href="http://www.requirejs.cn/">Require.js 中文网</a></h4>
   </li>
   <li>
-    <h4><a href="http://www.swiper.com.cn/">Swiper 中文网</a></h4>
+    <h4><a href="http://www.swiper.com.cn/">Swiper.js 中文网</a></h4>
   </li>
   <li>
     <h4><a href="https://github.com/sunmengyuan/book/blob/master/Bootstra%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.pdf">Bootstrap 用户手册</a></h4>
