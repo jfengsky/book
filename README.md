@@ -1,6 +1,6 @@
 <h1>前端开发 Library</h1>
 <h5>中文版 + 完整版 + 实例</h5>
-<h6>呆恋小喵&nbsp;&nbsp;&nbsp;&nbsp;qq: 493108053&nbsp;&nbsp;&nbsp;&nbsp;官网: www.miaomie.tech</h6>
+<h6>呆恋小喵&nbsp;&nbsp;&nbsp;&nbsp;qq: 493108053&nbsp;&nbsp;&nbsp;&nbsp;欢迎参观: www.miaomie.tech</h6>
 
 <h2>JavaScript</h2>
 <h5>基础类</h5>
