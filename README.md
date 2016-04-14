@@ -83,7 +83,7 @@
         </ul>
     </li>
     <li>
-        <h4><a href="http://brm.io/matter-js/docs/">Matter.js 官网</a></h4>
+        <h4><a href="http://brm.io/matter-js/index.html">Matter.js 官网</a></h4>
         <ul>
             <li>
                 <h5><a href="https://github.com/sunmengyuan/note/blob/master/matter/seesaw.html">跷跷板</a></h5>
