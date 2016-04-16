@@ -17,6 +17,9 @@
     <li>
         <h4><a href="https://github.com/sunmengyuan/book/blob/master/JavaScript%E9%AB%98%E6%95%88%E5%9B%BE%E5%BD%A2%E7%BC%96%E7%A8%8B.pdf">JavaScript 高效图形编程</a></h4>
     </li>
+    <li>
+        <h4><a href="https://github.com/sunmengyuan/book/blob/master/JavaScript%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf">JavaScript 修炼之道</a></h4>
+    </li>
 </ul>
 <h5>进阶类</h5>
 <ul>
