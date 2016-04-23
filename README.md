@@ -141,10 +141,16 @@
         <h5><a href="http://regexr.com/">【RegExr】</a></h5>
     </li>
     <li>
+        <h4><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">深入学习 MongoDB</a></h4>
+    </li>
+    <li>
         <h4><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">Git 教程 (推荐)</a></h4>
     </li>
     <li>
         <h4><a href="http://www.sketchcn.com/">Sketch 中文网</a></h4>
+    </li>
+    <li>
+        <h4><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">SEO 的艺术</a></h4>
     </li>
     <li>
         <h4><a href="https://github.com/sunmengyuan/book/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMySQL.pdf">高性能 MySQL</a></h4>
