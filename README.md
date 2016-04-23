@@ -141,7 +141,7 @@
         <h5><a href="http://regexr.com/">【RegExr】</a></h5>
     </li>
     <li>
-        <h4><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">深入学习 MongoDB</a></h4>
+        <h4><a href="https://github.com/sunmengyuan/book/blob/master/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0MongoDB.pdf">深入学习 MongoDB</a></h4>
     </li>
     <li>
         <h4><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">Git 教程 (推荐)</a></h4>
