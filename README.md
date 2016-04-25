@@ -132,6 +132,9 @@
     <li>
         <h4><a href="https://github.com/sunmengyuan/book/blob/master/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%8C%87%E5%8D%97.pdf">高性能网站建设指南</a></h4>
     </li>
+    <li>
+        <h4><a href="https://github.com/sunmengyuan/book/blob/master/HTML5%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91.pdf">HTML5 游戏开发</a></h4>
+    </li>
 </ul>
 
 <h5>前端拓展</h5>
@@ -148,6 +151,12 @@
     </li>
     <li>
         <h4><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">Git 教程 (推荐)</a></h4>
+    </li>
+    <li>
+        <h4><a href="https://github.com/sunmengyuan/book/blob/master/%E5%9B%BE%E8%A7%A3TCP_IP.pdf">图解 TCP_IP</a></h4>
+    </li>
+    <li>
+        <h4><a href="https://github.com/sunmengyuan/book/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA.pdf">计算机科学概论</a></h4>
     </li>
     <li>
         <h4><a href="http://www.sketchcn.com/">Sketch 中文网</a></h4>
