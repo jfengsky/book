@@ -124,6 +124,9 @@
         <h4><a href="http://es6.ruanyifeng.com/#README">ECMAScript 6 入门</a></h4>
     </li>
     <li>
+        <h4><a href="https://github.com/sunmengyuan/book/blob/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BACoffeeScript.pdf">深入浅出 CoffeeScript</a></h4>
+    </li>
+    <li>
         <h4><a href="https://github.com/sunmengyuan/book/blob/master/%E5%86%99%E7%BB%99Web%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E7%9C%8B%E7%9A%84HTML5%E6%95%99%E7%A8%8B.pdf">写给 Web 开发人员看的 HTML5 教程</a></h4>
     </li>
     <li>
