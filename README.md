@@ -111,6 +111,9 @@
         <h4><a href="http://www.expressjs.com.cn/">Express.js 官网</a></h4>
     </li>
     <li>
+        <h4><a href="http://cn.vuejs.org/">Vue.js 官网</a></h4>
+    </li>
+    <li>
         <h4><a href="http://www.swiper.com.cn/">Swiper.js 中文网</a></h4>
     </li>
     <li>
