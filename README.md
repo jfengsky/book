@@ -42,7 +42,7 @@
     <li>
         <h4><a href="https://github.com/sunmengyuan/book/blob/master/Node.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf">Node.js 开发指南 (推荐)</a></h4>
         <h5><a href="https://github.com/sunmengyuan/note/blob/master/node/node.js">【Node.js 笔记】</a></h5>
-        <h5><a href="https://github.com/sunmengyuan/note/tree/master/node/users">【Node.js 实例】</a></h5>
+        <h5><a href="https://github.com/sunmengyuan/note/tree/master/node/expo">【Node.js 实例】</a></h5>
     </li>
     <li>
         <h4><a href="https://github.com/sunmengyuan/book/blob/master/Node.js%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C.pdf">Node.js 入门手册 (快速入门)</a></h4>
