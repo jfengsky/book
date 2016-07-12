@@ -20,6 +20,9 @@
     <li>
         <h4><a href="https://github.com/sunmengyuan/book/blob/master/JavaScript%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf">JavaScript 修炼之道</a></h4>
     </li>
+    <li>
+        <h4><a href="http://bonsaiden.github.io/JavaScript-Garden/zh/#intro">JavaScript 秘密花园</a></h4>
+    </li>
 </ul>
 <h5>进阶类</h5>
 <ul>
@@ -117,6 +120,16 @@
         <h4><a href="http://www.swiper.com.cn/">Swiper.js 中文网</a></h4>
     </li>
     <li>
+        <h4><a href="http://less.bootcss.com/#">Less 中文网</a></h4>
+        <h5><a href="https://github.com/sunmengyuan/note/blob/master/less/less.less">【Less 笔记】</a></h5>
+    </li>
+    <li>
+        <h4><a href="http://socket.io/">Socket.IO 官网</a></h4>
+    </li>
+    <li>
+        <h4><a href="http://www.gruntjs.net/">Grunt 官网</a></h4>
+    </li>
+    <li>
         <h4><a href="https://github.com/sunmengyuan/book/blob/master/Bootstra%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.pdf">Bootstrap 用户手册</a></h4>
     </li>
 </ul>
@@ -126,6 +139,7 @@
 <ul>
     <li>
         <h4><a href="http://es6.ruanyifeng.com/#README">ECMAScript 6 入门</a></h4>
+        <h5><a href="https://github.com/sunmengyuan/note/blob/master/ecmascript/es6.js">【ES6 笔记】</a></h5>
     </li>
     <li>
         <h4><a href="https://github.com/sunmengyuan/book/blob/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BACoffeeScript.pdf">深入浅出 CoffeeScript</a></h4>
